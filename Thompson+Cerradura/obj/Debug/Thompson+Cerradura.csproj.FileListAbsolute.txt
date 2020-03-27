@@ -1,0 +1,10 @@
+C:\Users\Luis Fernando\source\repos\Thompson+Cerradura\obj\Debug\Thompson+Cerradura.csprojAssemblyReference.cache
+C:\Users\Luis Fernando\source\repos\Thompson+Cerradura\obj\Debug\Thompson_Cerradura.Form1.resources
+C:\Users\Luis Fernando\source\repos\Thompson+Cerradura\obj\Debug\Thompson_Cerradura.Properties.Resources.resources
+C:\Users\Luis Fernando\source\repos\Thompson+Cerradura\obj\Debug\Thompson+Cerradura.csproj.GenerateResource.cache
+C:\Users\Luis Fernando\source\repos\Thompson+Cerradura\obj\Debug\Thompson+Cerradura.csproj.CoreCompileInputs.cache
+C:\Users\Luis Fernando\source\repos\Thompson+Cerradura\bin\Debug\Thompson+Cerradura.exe.config
+C:\Users\Luis Fernando\source\repos\Thompson+Cerradura\bin\Debug\Thompson+Cerradura.exe
+C:\Users\Luis Fernando\source\repos\Thompson+Cerradura\bin\Debug\Thompson+Cerradura.pdb
+C:\Users\Luis Fernando\source\repos\Thompson+Cerradura\obj\Debug\Thompson+Cerradura.exe
+C:\Users\Luis Fernando\source\repos\Thompson+Cerradura\obj\Debug\Thompson+Cerradura.pdb
